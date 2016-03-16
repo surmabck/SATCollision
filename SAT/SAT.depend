@@ -1,0 +1,259 @@
+# depslib dependency file v1.0
+1419340364 source:/home/bartosz/programowanie/projektsfmlv2/testv2/box.cpp
+	"box.h"
+
+1419341557 /home/bartosz/programowanie/projektsfmlv2/testv2/box.h
+	<SFML/Graphics.hpp>
+	"vector2d.h"
+
+1419341116 /home/bartosz/programowanie/projektsfmlv2/testv2/vector2d.h
+	<SFML/Graphics.hpp>
+
+1419258304 source:/home/bartosz/programowanie/projektsfmlv2/testv2/config.cpp
+	"config.h"
+
+1419337965 /home/bartosz/programowanie/projektsfmlv2/testv2/config.h
+	<string>
+	<fstream>
+	<iostream>
+
+1419331811 source:/home/bartosz/programowanie/projektsfmlv2/testv2/engine.cpp
+	"engine.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<sstream>
+	<string>
+
+1419337608 /home/bartosz/programowanie/projektsfmlv2/testv2/engine.h
+	<SFML/Graphics.hpp>
+	"environment.h"
+	"kolizje.h"
+	"obiekt.h"
+	"mouse.h"
+
+1419337608 /home/bartosz/programowanie/projektsfmlv2/testv2/environment.h
+	<SFML/Graphics.hpp>
+	"engine.h"
+	"config.h"
+
+1419341200 /home/bartosz/programowanie/projektsfmlv2/testv2/kolizje.h
+	"box.h"
+	"quadtree.h"
+
+1419337608 /home/bartosz/programowanie/projektsfmlv2/testv2/quadtree.h
+	"obiekt.h"
+
+1419337608 /home/bartosz/programowanie/projektsfmlv2/testv2/obiekt.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<math.h>
+
+1419339272 /home/bartosz/programowanie/projektsfmlv2/testv2/mouse.h
+	<SFML/Graphics.hpp>
+	"obiekt.h"
+
+1415570460 source:/home/bartosz/programowanie/projektsfmlv2/testv2/environment.cpp
+	"environment.h"
+	"kolizje.h"
+	<iostream>
+
+1415639428 source:/home/bartosz/programowanie/projektsfmlv2/testv2/kolizje.cpp
+	"kolizje.h"
+	<iostream>
+	<cmath>
+
+1414699344 source:/home/bartosz/programowanie/projektsfmlv2/testv2/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"box.h"
+	"vector2d.h"
+	"environment.h"
+	"engine.h"
+	"kolizje.h"
+
+1414752845 source:/home/bartosz/programowanie/projektsfmlv2/testv2/mouse.cpp
+	"mouse.h"
+
+1419256114 source:/home/bartosz/programowanie/projektsfmlv2/testv2/obiekt.cpp
+	"obiekt.h"
+
+1419281813 source:/home/bartosz/programowanie/projektsfmlv2/testv2/quadtree.cpp
+	"quadtree.h"
+
+1414696393 source:/home/bartosz/programowanie/projektsfmlv2/testv2/vector2d.cpp
+	"vector2d.h"
+	<math.h>
+
+1419340364 source:/home/bartosz/programowanie/projektsfmlv2/SAT/box.cpp
+	"box.h"
+
+1419341557 /home/bartosz/programowanie/projektsfmlv2/SAT/box.h
+	<SFML/Graphics.hpp>
+	"vector2d.h"
+
+1419341116 /home/bartosz/programowanie/projektsfmlv2/SAT/vector2d.h
+	<SFML/Graphics.hpp>
+
+1419258304 source:/home/bartosz/programowanie/projektsfmlv2/SAT/config.cpp
+	"config.h"
+
+1419337965 /home/bartosz/programowanie/projektsfmlv2/SAT/config.h
+	<string>
+	<fstream>
+	<iostream>
+
+1419331811 source:/home/bartosz/programowanie/projektsfmlv2/SAT/engine.cpp
+	"engine.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<sstream>
+	<string>
+
+1419337608 /home/bartosz/programowanie/projektsfmlv2/SAT/engine.h
+	<SFML/Graphics.hpp>
+	"environment.h"
+	"kolizje.h"
+	"obiekt.h"
+	"mouse.h"
+
+1419337608 /home/bartosz/programowanie/projektsfmlv2/SAT/environment.h
+	<SFML/Graphics.hpp>
+	"engine.h"
+	"config.h"
+
+1419341200 /home/bartosz/programowanie/projektsfmlv2/SAT/kolizje.h
+	"box.h"
+	"quadtree.h"
+
+1419337608 /home/bartosz/programowanie/projektsfmlv2/SAT/quadtree.h
+	"obiekt.h"
+
+1419337608 /home/bartosz/programowanie/projektsfmlv2/SAT/obiekt.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<math.h>
+
+1419339272 /home/bartosz/programowanie/projektsfmlv2/SAT/mouse.h
+	<SFML/Graphics.hpp>
+	"obiekt.h"
+
+1415570460 source:/home/bartosz/programowanie/projektsfmlv2/SAT/environment.cpp
+	"environment.h"
+	"kolizje.h"
+	<iostream>
+
+1415639428 source:/home/bartosz/programowanie/projektsfmlv2/SAT/kolizje.cpp
+	"kolizje.h"
+	<iostream>
+	<cmath>
+
+1414699344 source:/home/bartosz/programowanie/projektsfmlv2/SAT/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"box.h"
+	"vector2d.h"
+	"environment.h"
+	"engine.h"
+	"kolizje.h"
+
+1414752845 source:/home/bartosz/programowanie/projektsfmlv2/SAT/mouse.cpp
+	"mouse.h"
+
+1419256114 source:/home/bartosz/programowanie/projektsfmlv2/SAT/obiekt.cpp
+	"obiekt.h"
+
+1419281813 source:/home/bartosz/programowanie/projektsfmlv2/SAT/quadtree.cpp
+	"quadtree.h"
+
+1414696393 source:/home/bartosz/programowanie/projektsfmlv2/SAT/vector2d.cpp
+	"vector2d.h"
+	<math.h>
+
+1419340364 source:d:\projekty\projektc2\projektc2\sat\box.cpp
+	"box.h"
+
+1419341557 d:\projekty\projektc2\projektc2\sat\box.h
+	<SFML/Graphics.hpp>
+	"vector2d.h"
+
+1419341116 d:\projekty\projektc2\projektc2\sat\vector2d.h
+	<SFML/Graphics.hpp>
+
+1419258304 source:d:\projekty\projektc2\projektc2\sat\config.cpp
+	"config.h"
+
+1419337965 d:\projekty\projektc2\projektc2\sat\config.h
+	<string>
+	<fstream>
+	<iostream>
+
+1419331811 source:d:\projekty\projektc2\projektc2\sat\engine.cpp
+	"engine.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<sstream>
+	<string>
+
+1419337608 d:\projekty\projektc2\projektc2\sat\engine.h
+	<SFML/Graphics.hpp>
+	"environment.h"
+	"kolizje.h"
+	"obiekt.h"
+	"mouse.h"
+
+1419337608 d:\projekty\projektc2\projektc2\sat\environment.h
+	<SFML/Graphics.hpp>
+	"engine.h"
+	"config.h"
+
+1419341200 d:\projekty\projektc2\projektc2\sat\kolizje.h
+	"box.h"
+	"quadtree.h"
+
+1419337608 d:\projekty\projektc2\projektc2\sat\quadtree.h
+	"obiekt.h"
+
+1419337608 d:\projekty\projektc2\projektc2\sat\obiekt.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<math.h>
+
+1419339272 d:\projekty\projektc2\projektc2\sat\mouse.h
+	<SFML/Graphics.hpp>
+	"obiekt.h"
+
+1415570460 source:d:\projekty\projektc2\projektc2\sat\environment.cpp
+	"environment.h"
+	"kolizje.h"
+	<iostream>
+
+1415639428 source:d:\projekty\projektc2\projektc2\sat\kolizje.cpp
+	"kolizje.h"
+	<iostream>
+	<cmath>
+
+1414699344 source:d:\projekty\projektc2\projektc2\sat\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+	"box.h"
+	"vector2d.h"
+	"environment.h"
+	"engine.h"
+	"kolizje.h"
+
+1414752845 source:d:\projekty\projektc2\projektc2\sat\mouse.cpp
+	"mouse.h"
+
+1419256114 source:d:\projekty\projektc2\projektc2\sat\obiekt.cpp
+	"obiekt.h"
+
+1419281813 source:d:\projekty\projektc2\projektc2\sat\quadtree.cpp
+	"quadtree.h"
+
+1414696393 source:d:\projekty\projektc2\projektc2\sat\vector2d.cpp
+	"vector2d.h"
+	<math.h>
+
